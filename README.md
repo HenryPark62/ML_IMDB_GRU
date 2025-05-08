@@ -1,6 +1,7 @@
 # ML_IMDB_GRU
 
-데이터 출처: (imdb) tensorflow.keras.datasets 라이브러리 https://www.imdb.com/title/tt12299608/reviews/?ref_=ttrt_sa_3&rating=5
+데이터 출처: (imdb) tensorflow.keras.datasets 라이브러리 
+https://www.imdb.com/title/tt12299608/reviews/?ref_=ttrt_sa_3&rating=5
 
 ## 영화, 드라마 등 리뷰에 대한 긍정/부정 등 평가를 하는 감성 분석 모델 구현 (Keras - GRU Model) 
 (IMDb 웹사이트의 Mickey 17 영화 리뷰 데이터로 테스트.)
