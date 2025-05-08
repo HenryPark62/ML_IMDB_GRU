@@ -14,6 +14,7 @@ https://www.imdb.com/title/tt12299608/reviews/?ref_=ttrt_sa_3&rating=5
 
 
 <img width="1166" alt="스크린샷 2025-05-08 오후 9 31 43" src="https://github.com/user-attachments/assets/6b536b7e-80cb-4150-84b8-56d687ab6617" />
+<img width="1166" alt="스크린샷 2025-05-08 오후 9 40 48" src="https://github.com/user-attachments/assets/b798908b-3fe4-4aab-acb9-68892d41916f" />
 
 
 <img width="1167" alt="스크린샷 2025-05-08 오후 9 29 59" src="https://github.com/user-attachments/assets/cb803f93-6098-49d9-9e67-ad71d6532fe3" />
